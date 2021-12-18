@@ -1,4 +1,4 @@
-# Experiment 2
+# Experiment 3
 ## LED Chasing Effect
 ### __ITEMS NEEDED:-__
 * Arduino UNO
