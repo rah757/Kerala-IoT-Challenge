@@ -9,7 +9,7 @@
 * Resistors (6x)
 
 ### Circuit Diagram:
-![LED Chaser_Light](https://user-images.githubusercontent.com/69799424/146653663-fc9d2fbf-1f27-44df-a64a-b973be1e25a6.png)
+![LED Chaser_Light](https://user-images.githubusercontent.com/69799424/146653813-d274674c-d703-44bc-b65f-822f3a8a992a.png)
 
 
 ### Code:
