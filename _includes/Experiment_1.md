@@ -28,7 +28,9 @@ void loop()
 }
 
 ```
-### _Here's a video on how the output is:_
+### _Output:_
+
+We get an LED which blinks every second.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DE0KzMhWAOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
