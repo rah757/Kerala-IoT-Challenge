@@ -39,7 +39,7 @@ void loop()
 }
 ```
 ### _Output:_
-We get a chasing effect of a set of LEDs which could be compared to old billboards which had colourful LEDs which had lighting effects.
+We get a chasing effect of a set of LEDs which could be compared to old billboards which had colourful LEDs with lighting effects.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bjJBsR-uZf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
