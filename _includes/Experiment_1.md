@@ -10,3 +10,5 @@
 
 ### Circuit Diagram:
 ![Screenshot (65)](https://user-images.githubusercontent.com/69799424/146643276-59ed5c0f-c990-4d72-8b04-df6b8b7b0084.png)
+
+
