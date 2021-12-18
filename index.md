@@ -1,1 +1,5 @@
-{% include 01-name.md %}
+---
+layout: default
+---
+
+{% include main_header.md %}
