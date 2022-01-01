@@ -3,7 +3,7 @@
 ### __ITEMS NEEDED:-__
 * Arduino UNO
 * A Breadboard
-* Male to male jumper wires (x4)
+* Male to male jumper wires (x5)
 * LED (x1)
 * USB cable to connect the arduino
 * Resistors (10k ohm and 220 ohm)
