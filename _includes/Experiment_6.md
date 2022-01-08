@@ -1,5 +1,5 @@
 # Experiment 6
-## RGB led
+## RGB LED
 ### __ITEMS NEEDED:-__
 * Arduino UNO
 * A Breadboard
