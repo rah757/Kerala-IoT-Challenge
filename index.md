@@ -40,6 +40,4 @@ layout: default
 
 {% include Experiment_8.md %}
 
-<br>
 
-{% include Experiment_9.md %}
