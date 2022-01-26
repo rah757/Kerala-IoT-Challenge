@@ -9,7 +9,7 @@
 * Serial monitor
 
 ### Circuit:
-![IMG_20220126_212532](https://user-images.githubusercontent.com/69799424/151199081-641f171d-8cc6-4cc6-abee-b9f51d0bd7ed.jpg)
+
 
 
 
